@@ -1,0 +1,13 @@
+* C:\Users\Raul Alzate\Desktop\Tentactil\Circuits_Electronics\Regulador5V\Regulador5V.asc
+XU1 ref 0 cat TL431
+XU2 Vi cat vo irf8010pbf
+V1 Vi 0 13 Rser=.1
+R1 vo ref 10k
+R2 ref 0 10k
+R3 Vi cat 1k
+R4 vo 0 1k
+.dc V1 3 30 0.5
+.lib C:\Users\Raul Alzate\Desktop\Tentactil\Circuits_Electronics\Regulador5V\irf8010pbf.spi
+.lib C:\Users\Raul Alzate\Desktop\Tentactil\Circuits_Electronics\Regulador5V\tl431.txt
+.backanno
+.end
