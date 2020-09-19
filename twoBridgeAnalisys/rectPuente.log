@@ -1,0 +1,21 @@
+Circuit: * C:\Users\Raul Alzate\Desktop\Circuits_Electronics\twoBridgeAnalisys\rectPuente.asc
+
+.OP point found by inspection.
+
+Date: Tue Sep 15 19:54:06 2020
+Total elapsed time: 0.114 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2876
+traniter = 2876
+tranpoints = 1374
+accept = 1276
+rejected = 98
+matrix size = 8
+fillins = 6
+solver = Normal
+Matrix Compiler1:      37 opcodes  0.3/[0.1]/0.1
+Matrix Compiler2: off  [0.1]/0.1/0.1
+
